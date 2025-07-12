@@ -88,9 +88,8 @@ class Place {
   add(...points) {
     let count = 0;
     for (const point of points) {
-      const str = point.toString();
-      if (!this.points.has(str)) {
-        this.points.add(str);
+      if (![...this.points].some(p => p.toString() === point.toString())) {
+        this.points.add(point);
         count++;
       }
     }
@@ -98,7 +97,7 @@ class Place {
   }
 
   toLine() {
-    return `${this.path} ${[...this.points].join(" ")}`;
+    return `${this.path} ${[...this.points].map(p => p.toString()).join(" ")}`;
   }
 }
 
