@@ -16,6 +16,14 @@
       "program": "${workspaceFolder}/generate-object-inventory.js",
       "skipFiles": ["<node_internals>/**"],
       "cwd": "${workspaceFolder}"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Generate Object Locations",
+      "program": "${workspaceFolder}/generate-object-locations.js",
+      "skipFiles": ["<node_internals>/**"],
+      "cwd": "${workspaceFolder}"
     }
   ]
 }
