@@ -1,0 +1,553 @@
+Animal/Bear/A/Honeyvore Bear
+Animal/Bear/B/Grizzlemaw Bear
+Animal/Boar/A/Woodland Boar
+Animal/Boar/B/Red-Tusked Boar
+Animal/Bull/A/Water Buffalo
+Animal/Cassowary/A/Eldin Ostrich
+Animal/Cow/A/Hateno Cow
+Animal/Crow/A/Mountain Crow
+Animal/Deer/A/Mountain Buck
+Animal/Doe/A/Mountain Doe
+Animal/Dog/A/Hylian Retriever
+Animal/Elk/A/Tabantha Moose
+Animal/Fox/A/Grassland Fox
+Animal/Fox/B/Snowcoat Fox
+Animal/Goat/A/White Goat
+Animal/Gull/A/Seagull
+Animal/Hawk/A/Islander Hawk
+Animal/Heron/A/Blue-Winged Heron
+Animal/Heron/B/Pink Heron
+Animal/Insect/A/Hot-Footed Frog
+Animal/Insect/AA/Energetic Rhino Beetle
+Animal/Insect/AB/Smotherwing Butterfly
+Animal/Insect/AG/Sticky Frog
+Animal/Insect/AH/Sticky Lizard
+Animal/Insect/AI/Deep Firefly
+Animal/Insect/B/Tireless Frog
+Animal/Insect/C/Cold Darner
+Animal/Insect/E/Sunset Firefly
+Animal/Insect/F/Fairy
+Animal/Insect/G/Bladed Rhino Beetle
+Animal/Insect/H/Restless Cricket
+Animal/Insect/I/Electric Darner
+Animal/Insect/M/Hearty Lizard
+Animal/Insect/N/Winterwing Butterfly
+Animal/Insect/P/Rugged Rhino Beetle
+Animal/Insect/Q/Summerwing Butterfly
+Animal/Insect/R/Thunderwing Butterfly
+Animal/Insect/S/Hightail Lizard
+Animal/Insect/T/Warm Darner
+Animal/Insect/X/Fireproof Lizard
+Animal/Kokko/A/Cucco
+Animal/LittleBird/A/Common Sparrow
+Animal/LittleBird/B/Red Sparrow
+Animal/LittleBird/C/Blue Sparrow
+Animal/LittleBird/D/Rainbow Sparrow
+Animal/LittleBird/E/Sand Sparrow
+Animal/LittleBird/F/Golden Sparrow
+Animal/Pigeon/A/Wood Pigeon
+Animal/Pigeon/B/Rainbow Pigeon
+Animal/Ptarmigan/A/White Pigeon
+Animal/Ptarmigan/B/Hotfeather Pigeon
+Animal/RupeeRabbit/A/Blupee
+Animal/Sheep/A/Highland Sheep
+Animal/SkyCassowary/A/Forest Ostrich
+Animal/SkyGull/A/Cloud Seagull
+Animal/SkyPigeon/A/Accented Pigeon
+Animal/Squirrel/A/Bushy-Tailed Squirrel
+Animal/Sunazarashi/A/Sand Seal
+Animal/SunazarashiSP/C/Patricia
+Animal/WildDuck/A/Bright-Chested Duck
+Animal/WildGoat/A/Mountain Goat
+Animal/Wolf/A/Maraudo Wolf
+Animal/Wolf/B/Wasteland Coyote
+Animal/Wolf/C/Cold-Footed Wolf
+Armor/001/Head/Hylian Hood
+Armor/001/Lower/Hylian Trousers
+Armor/001/Upper/Hylian Tunic
+Armor/008/Head/Desert Voe Headband
+Armor/008/Lower/Desert Voe Trousers
+Armor/008/Upper/Desert Voe Spaulder
+Armor/009/Head/Snowquill Headdress
+Armor/009/Lower/Snowquill Trousers
+Armor/009/Upper/Snowquill Tunic
+Armor/011/Head/Flamebreaker Helm
+Armor/011/Lower/Flamebreaker Boots
+Armor/011/Upper/Flamebreaker Armor
+Armor/012/Head/Stealth Mask
+Armor/012/Lower/Stealth Tights
+Armor/012/Upper/Stealth Chest Guard
+Armor/014/Upper/Climbing Gear
+Armor/017/Head/Radiant Mask
+Armor/017/Lower/Radiant Tights
+Armor/017/Upper/Radiant Shirt
+Armor/020/Head/Soldier's Helm
+Armor/020/Lower/Soldier's Greaves
+Armor/020/Upper/Soldier's Armor
+Armor/024/Head/Diamond Circlet
+Armor/025/Head/Ruby Circlet
+Armor/026/Head/Sapphire Circlet
+Armor/027/Head/Topaz Earrings
+Armor/028/Head/Opal Earrings
+Armor/029/Head/Amber Earrings
+Armor/046/Lower/Rubber Tights
+Armor/046/Upper/Rubber Armor
+Armor/048/Head/Barbarian Helm
+Armor/048/Lower/Barbarian Leg Wraps
+Armor/048/Upper/Barbarian Armor
+Armor/049/Lower/Sand Boots
+Armor/1061/Head/Ember Headdress
+Armor/1061/Lower/Ember Trousers
+Armor/1076/Head/Cece Hat
+Armor/1096/Head/Mask of Awakening
+Armor/1096/Lower/Trousers of Awakening
+Armor/1096/Upper/Tunic of Awakening
+Armor/1106/Upper/Champion's Leathers
+Armor/141/Lower/Snow Boots
+Armor/171/Head/Phantom Helmet
+Armor/171/Lower/Phantom Greaves
+Armor/171/Upper/Phantom Armor
+Armor/174/Lower/Tingle's Tights
+Armor/174/Upper/Tingle's Shirt
+Armor/175/Upper/Island Lobster Shirt
+Armor/179/Upper/Royal Guard Uniform
+Armor/225/Head/Fierce Deity Mask
+Armor/225/Lower/Fierce Deity Boots
+Armor/225/Upper/Fierce Deity Armor
+BeeHome/Courser Bee Honey
+BombFruit/Bomb Flower
+ElectricalFruit/Shock Fruit
+Enemy/Assassin/Junior/Yiga Footsoldier
+Enemy/Assassin/Middle/Yiga Blademaster
+Enemy/Assassin/Senior/Master Kohga
+Enemy/Bokoblin/Bone/Junior/Stalkoblin
+Enemy/Bokoblin/Boss/Dark/Silver Boss Bokoblin
+Enemy/Bokoblin/Boss/Junior/Boss Bokoblin
+Enemy/Bokoblin/Boss/Middle/Blue Boss Bokoblin
+Enemy/Bokoblin/Boss/Senior/Black Boss Bokoblin
+Enemy/Bokoblin/Dark/Armoured Silver Bokoblin
+Enemy/Bokoblin/Dark/Silver Bokoblin
+Enemy/Bokoblin/Junior/Armoured Bokoblin
+Enemy/Bokoblin/Junior/Bokoblin
+Enemy/Bokoblin/Middle/Armoured Blue Bokoblin
+Enemy/Bokoblin/Middle/Blue Bokoblin
+Enemy/Bokoblin/Senior/Armoured Black Bokoblin
+Enemy/Bokoblin/Senior/Black Bokoblin
+Enemy/Chuchu/Electric/Junior/Electric Chuchu
+Enemy/Chuchu/Fire/Junior/Fire Chuchu
+Enemy/Chuchu/Ice/Junior/Ice Chuchu
+Enemy/Chuchu/Junior/Chuchu
+Enemy/Dragon/Electric/Farosh
+Enemy/Dragon/Fire/Dinraal
+Enemy/Dragon/Ice/Naydra
+Enemy/Dragon/Light/001/Light Dragon
+Enemy/Drake/Electric/Thunder Gleeok
+Enemy/Drake/Fire/Flame Gleeok
+Enemy/Drake/Ice/Frost Gleeok
+Enemy/Drake/Mix/King Gleeok
+Enemy/DungeonBoss/Gerudo/Queen Gibdo
+Enemy/DungeonBoss/Goron/Marbled Gohma
+Enemy/DungeonBoss/Rito/Colgera
+Enemy/DungeonBoss/Zonau/Seized Construct
+Enemy/DungeonBoss/Zora/Mucktorok
+Enemy/Ganondorf/Demon King Ganondorf
+Enemy/Ganondorf/Miasma/Demon King Ganondorf (2nd Form)
+Enemy/Giant/Bone/Stalnox
+Enemy/Giant/Junior/Hinox
+Enemy/Giant/Middle/Blue Hinox
+Enemy/Giant/Senior/Black Hinox
+Enemy/Golem/Fire/Igneo Talus
+Enemy/Golem/Fort/A/Battle Talus
+Enemy/Golem/Ice/Frost Talus
+Enemy/Golem/Junior/Stone Talus
+Enemy/Golem/Little/Fire/Igneo Pebblit
+Enemy/Golem/Little/Ice/Frost Pebblit
+Enemy/Golem/Little/Stone Pebblit
+Enemy/Golem/Middle/Stone Talus (Luminous)
+Enemy/Golem/Senior/Stone Talus (Rare)
+Enemy/Horablin/Dark/Silver Horriblin
+Enemy/Horablin/Junior/Horriblin
+Enemy/Horablin/Middle/Blue Horriblin
+Enemy/Horablin/Senior/Black Horriblin
+Enemy/Keese/Electric/Electric Keese
+Enemy/Keese/Fire/Fire Keese
+Enemy/Keese/Ice/Ice Keese
+Enemy/Keese/Keese
+Enemy/LikeLike/Crack/Rock Like
+Enemy/LikeLike/Electric/Shock Like
+Enemy/LikeLike/Fire/Fire Like
+Enemy/LikeLike/Ice/Ice Like
+Enemy/LikeLike/Plane/Like Like
+Enemy/LikeLike/Tar/Sludge Like
+Enemy/Lizalfos/Dark/Silver Lizalfos
+Enemy/Lizalfos/Electric/Electric Lizalfos
+Enemy/Lizalfos/Fire/Fire-Breath Lizalfos
+Enemy/Lizalfos/Ice/Ice-Breath Lizalfos
+Enemy/Lizalfos/Junior/Lizalfos
+Enemy/Lizalfos/Middle/Blue Lizalfos
+Enemy/Lizalfos/Senior/Black Lizalfos
+Enemy/Lynel/Dark/Silver Lynel
+Enemy/Lynel/Junior/Lynel
+Enemy/Lynel/Middle/Blue-Maned Lynel
+Enemy/Lynel/Senior/White-Maned Lynel
+Enemy/MiddleBoss/Goron/Moragia
+Enemy/Mogurudo/Baby/Junior/Little Frox
+Enemy/Mogurudo/Junior/Frox
+Enemy/Mogurudo/Middle/Obsidian Frox
+Enemy/Mogurudo/Senior/Blue-White Frox
+Enemy/Moriblin/Dark/Silver Moblin
+Enemy/Moriblin/Junior/Moblin
+Enemy/Moriblin/Middle/Blue Moblin
+Enemy/Moriblin/Senior/Black Moblin
+Enemy/Octarock/Desert/Treasure Octorok
+Enemy/Octarock/Forest/Forest Octorok
+Enemy/Octarock/Snow/Snow Octorok
+Enemy/Octarock/Stone/Rock Octorok
+Enemy/Octarock/Water Octorok
+Enemy/PhantomGanon/Phantom Ganon
+Enemy/Sandworm/Molduga
+Enemy/Toby/Junior/Aerocuda
+Enemy/Treant/Broadleaf/Evermean - Hestu
+Enemy/Wizzrobe/Electric/Electric Wizzrobe
+Enemy/Wizzrobe/Electric/Senior/Thunder Wizzrobe
+Enemy/Wizzrobe/Fire/Fire Wizzrobe
+Enemy/Wizzrobe/Fire/Senior/Meteo Wizzrobe
+Enemy/Wizzrobe/Ice/Ice Wizzrobe
+Enemy/Wizzrobe/Ice/Senior/Blizzrobe
+Enemy/Zombie/Boss/Junior/Moth Gibdo
+Enemy/Zombie/Junior/Gibdo
+Enemy/Zonau/BlockMaster/Junior/Flux Construct I
+Enemy/Zonau/BlockMaster/Middle/Flux Construct II
+Enemy/Zonau/BlockMaster/Senior/Flux Construct III
+Enemy/Zonau/Golem/Junior/Captain Construct I
+Enemy/Zonau/Golem/Middle/Captain Construct II
+Enemy/Zonau/Golem/Senior/Captain Construct III
+Enemy/Zonau/Robot/Junior/Soldier Construct I
+Enemy/Zonau/Robot/Middle/Soldier Construct II
+Enemy/Zonau/Robot/Senior/Soldier Construct III
+Energy/Material/03/Large Crystallized Charge
+FireFruit/Fire Fruit
+FldObj/HyliaWoodWell/A/02/Well
+FldObj/Pinecone/A/01/Hylian Pine Cone
+GameRomHorse00L/Giant Horse
+GameRomHorse01L/Giant White Stallion
+GameRomHorseBone/Stalhorse
+GameRomHorseGold/Golden Horse
+GameRomHorseZelda/White Horse
+Helmet/001/Kosi
+Helmet/001/Ponthos
+IceFruit/Ice Fruit
+Item/Boiled/01/Hard-Boiled Egg
+Item/Chilled/02/Icy Prime Meat
+Item/Chilled/03/Icy Gourmet Meat
+Item/Chilled/05/Frozen Bird Thigh
+Item/ChilledFish/05/Frozen Porgy
+Item/Cook/C/17/ResistBurn/Elixir
+Item/Enemy/05/Lizalfos Tail
+Item/Enemy/117/Koltin - Fire Keese Eyeball
+Item/Enemy/121/Gibdo Guts
+Item/Enemy/123/Gibdo Wing
+Item/Enemy/124/Aerocuda Wing
+Item/Enemy/130/Zonai Charge
+Item/Enemy/131/Large Zonai Charge
+Item/Enemy/15/Red Chuchu Jelly
+Item/Enemy/155/Koltin - Gleeok Thunder Horn
+Item/Enemy/156/Koltin - Gleeok Wing
+Item/Enemy/16/Yellow Chuchu Jelly
+Item/Enemy/166/Soldier Construct Horn
+Item/Enemy/17/White Chuchu Jelly
+Item/Enemy/18/Keese Wing
+Item/Enemy/21/Octorok Eyeball
+Item/Enemy/215/Koltin - Lynel Mace Horn
+Item/Enemy/32/Koltin - Hinox Toenail
+Item/Enemy/40/Chuchu Jelly
+Item/Enemy/42/Koltin - Ice-Breath Lizalfos Tail
+Item/Enemy/57/Octo Balloon
+Item/Enemy/58/Fire-Breath Lizalfos Horn
+Item/Enemy/59/Ice-Breath Lizalfos Horn
+Item/Enemy/60/Electric Lizalfos Horn
+Item/Enemy/66/Aerocuda Eyeball
+Item/Enemy/69/Gibdo Bone
+Item/Enemy/77/Bokoblin Horn
+Item/FishGet/A/Hyrule Bass
+Item/FishGet/AA/Ancient Arowana
+Item/FishGet/AC/Glowing Cave Fish
+Item/FishGet/B/Hearty Bass
+Item/FishGet/C/Chillfin Trout
+Item/FishGet/D/Voltfin Trout
+Item/FishGet/E/Mighty Carp
+Item/FishGet/F/Mighty Porgy
+Item/FishGet/G/Armored Porgy
+Item/FishGet/H/Armored Carp
+Item/FishGet/I/Hearty Salmon
+Item/FishGet/J/Sizzlefin Trout
+Item/FishGet/L/Staminoka Bass
+Item/FishGet/M/Sneaky River Snail
+Item/FishGet/X/Stealthfin Trout
+Item/FishGet/Z/Sanke Carp
+Item/Fruit/A/Apple
+Item/Fruit/B/Wildberry
+Item/Fruit/C/Voltfruit
+Item/Fruit/E/Fleet-Lotus Seeds
+Item/Fruit/F/Hydromelon
+Item/Fruit/G/Palm Fruit
+Item/Fruit/H/Mighty Bananas
+Item/Fruit/I/Spicy Pepper
+Item/Fruit/J/Fortified Pumpkin
+Item/Fruit/K/Acorn
+Item/Fruit/L/Chickaloo Tree Nut
+Item/Fruit/M/Hylian Tomato
+Item/Fruit/N/Sun Pumpkin
+Item/Fruit/P/Golden Apple
+Item/InsectGet/O/Ironshell Crab
+Item/Material/01/Cane Sugar
+Item/Material/02/Goron Spice
+Item/Material/03/Hylian Rice
+Item/Material/04/Bird Egg
+Item/Material/05/Fresh Milk
+Item/Material/06/Goat Butter
+Item/Material/07/Tabantha Wheat
+Item/Material/08/Monster Extract
+Item/Material/09/Oil Jar
+Item/Material/10/Hateno Cheese
+Item/Meat/01/Raw Meat
+Item/Meat/02/Raw Prime Meat
+Item/Mushroom/A/Stamella Shroom
+Item/Mushroom/B/Chillshroom
+Item/Mushroom/C/Sunshroom
+Item/Mushroom/E/Hylian Shroom
+Item/Mushroom/F/Hearty Truffle
+Item/Mushroom/H/Zapshroom
+Item/Mushroom/J/Silent Shroom
+Item/Mushroom/L/Razorshroom
+Item/Mushroom/M/Ironshroom
+Item/Mushroom/N/Big Hearty Truffle
+Item/Mushroom/O/Endura Shroom
+Item/Mushroom/P/Skyshroom
+Item/MushroomGet/D/Rushroom
+Item/MushroomGet/K/Brightcap
+Item/Ore/A/Diamond
+Item/Ore/B/Ruby
+Item/Ore/C/Sapphire
+Item/Ore/D/Topaz
+Item/Ore/E/Opal
+Item/Ore/F/Amber
+Item/Ore/G/Luminous Stone
+Item/Ore/H/Rock Salt
+Item/Ore/I/Flint
+Item/Ore/J/Star Fragment
+Item/Ore/L/Zonaite
+Item/Ore/M/Large Zonaite
+Item/PlantGet/A/Hyrule Herb
+Item/PlantGet/B/Hearty Radish
+Item/PlantGet/C/Big Hearty Radish
+Item/PlantGet/E/Cool Safflina
+Item/PlantGet/F/Warm Safflina
+Item/PlantGet/G/Mighty Thistle
+Item/PlantGet/H/Armoranth
+Item/PlantGet/I/Blue Nightshade
+Item/PlantGet/J/Silent Princess
+Item/PlantGet/L/Electric Safflina
+Item/PlantGet/M/Swift Carrot
+Item/PlantGet/O/Swift Violet
+Item/PlantGet/Q/Endura Carrot
+Item/PlantGet/R/Sundelion
+Item/PlantGet/S/Stambulb
+Item/PlantGet/U/Korok Frond
+Item/Roast/01/Seared Steak
+Item/Roast/03/Baked Apple
+Item/Roast/05/Toasted Hearty Truffle
+Item/Roast/06/Toasty Hylian Shroom
+Item/Roast/10/Baked Palm Fruit
+Item/Roast/32/Toasty Sunshroom
+Item/Roast/40/Seared Prime Steak
+Item/Roast/41/Roasted Bird Thigh
+Item/Roast/45/Seared Gourmet Steak
+Item/Roast/56/Toasty Skyshroom
+Item/RoastFish/01/Roasted Bass
+Item/RoastFish/09/Roasted Porgy
+Item/RoastFish/18/Roasted Cave Fish
+Item/Weapon/01/Ancient Blade
+LightBall/Large/Giant Brightbloom Seed
+LightBall/Small/Brightbloom Seed
+LightFruit/Dazzlefruit
+MinusRupee/00/Poe
+MinusRupee/01/Large Poe
+MinusRupee/02/Grand Poe
+Obj/ArrowBundle/A/01/Arrow x 5
+Obj/ArrowBundle/A/02/Arrow x 10
+Obj/FireWoodBundle/Wood
+Obj/HeartUtuwa/A/01/Heart Container
+Obj/KorokNuts/Korok Seed
+Obj/KorokNuts/Korok Seed 2x
+Obj/Mineral/A/01/Ore Deposit
+Obj/Mineral/B/01/Rare Ore Deposit
+Obj/Mineral/C/01/Luminous Stone Deposit
+Obj/Mineral/D/01/Zonaite Deposit
+Obj/SageWill/Sage's Will
+Obj/TreasureMap/00/Old Map - ???
+Obj/TreasureMap/00/Old Map - Cap of the Wild
+Obj/TreasureMap/00/Old Map - Midna's Helmet
+Obj/TreasureMap/00/Old Map - Ravio's Hood
+Obj/TreasureMap/00/Old Map - Sea-Breeze Shield
+Obj/TreasureMap/00/Old Map - Trousers of Time
+Obj/TreasureMap/00/Old Map - Trousers of the Hero
+Obj/TreasureMap/00/Old Map - Tunic of Time
+Obj/TreasureMap/00/Old Map - Tunic of the Hero
+Obj/TreasureMap/00/Old Map - Tunic of the Sky
+Obj/TreasureMap/00/Old Map - Tunic of the Wild
+PutRupee/Blue/Blue Rupee
+PutRupee/Gold/Gold Rupee
+PutRupee/Green Rupee
+PutRupee/Purple/Purple Rupee
+PutRupee/Red/Red Rupee
+PutRupee/Silver/Silver Rupee
+SpObj/BalloonEnvelope/Capsule/A/01/Balloon
+SpObj/Beamos/Capsule/A/01/Beam Emitter
+SpObj/Cannon/Capsule/A/01/Cannon
+SpObj/ControlStick/Capsule/A/01/Steering Stick
+SpObj/CookSet/Capsule/A/01/Portable Pot
+SpObj/EnergyBank/Capsule/A/01/Battery
+SpObj/EnergyBank/Capsule/A/02/Big Battery
+SpObj/FastWheel/Capsule/A/01/Small Wheel
+SpObj/FastWheel/Capsule/B/01/Big Wheel
+SpObj/FlameThrower/Capsule/A/01/Flame Emitter
+SpObj/LiftGeneratorWing/Capsule/A/01/Wing
+SpObj/LiftableWaterPump/Capsule/A/01/Hydrant
+SpObj/LightMirror/A/01/Dorrah
+SpObj/LightMirror/Capsule/A/01/Mirror
+SpObj/Pile/Capsule/A/01/Stake
+SpObj/Rocket/A/01/Construct Bow
+SpObj/Rocket/Capsule/A/01/Rocket
+SpObj/SnowMachine/Capsule/A/01/Frost Emitter
+SpObj/TimerBomb/Capsule/A/01/Time Bomb
+SpObj/WindGenerator/Capsule/A/01/Fan
+TBox/Field/Enemy/Enemy Treasure Chest
+TBox/Field/Iron/Treasure Chest
+TBox/Field/Iron/Wooden Treasure Chest
+WaterFruit/Splash Fruit
+Weapon/Bow/001/Traveler's Bow
+Weapon/Bow/002/Soldiers Bow
+Weapon/Bow/003/Spiked Boko Bow
+Weapon/Bow/004/Boko Bow
+Weapon/Bow/006/Lizal Bow
+Weapon/Bow/009/Lynel Bow
+Weapon/Bow/011/Strengthened Lizal Bow
+Weapon/Bow/013/Forest Dweller's Bow
+Weapon/Bow/015/Gerudo Bow
+Weapon/Bow/016/Swallow Bow
+Weapon/Bow/017/Falcon Bow
+Weapon/Bow/026/Mighty Lynel Bow
+Weapon/Bow/027/Dragonbone Boko Bow
+Weapon/Bow/029/Phrenic Bow
+Weapon/Bow/030/Steel Lizal Bow
+Weapon/Bow/032/Savage Lynel Bow
+Weapon/Bow/033/Royal Guard's Bow
+Weapon/Bow/035/Knight's Bow
+Weapon/Bow/036/Royal Bow
+Weapon/Bow/038/Wooden Bow
+Weapon/Bow/040/Duplex Bow
+Weapon/Bow/072/Dusk Bow
+Weapon/Bow/101/Zonaite Bow
+Weapon/Bow/104/Construct Bow
+Weapon/Bow/104/Soldier Construct I
+Weapon/Bow/105/Strong Construct Bow
+Weapon/Bow/106/Mighty Construct Bow
+Weapon/Bow/107/Old Wooden Bow
+Weapon/Lsword/020/Rusty Claymore
+Weapon/Lsword/038/Boat Oar
+Weapon/Lsword/045/Farming Hoe
+Weapon/Lsword/054/Boulder Breaker
+Weapon/Lsword/060/Fierce Deity Sword
+Weapon/Lsword/101/Zonaite Longsword
+Weapon/Lsword/103/Thick Stick
+Weapon/Lsword/106/Traveler's Claymore
+Weapon/Lsword/108/Sturdy Thick Stick
+Weapon/Lsword/109/Gnarled Thick Stick
+Weapon/Lsword/112/Soldier's Claymore
+Weapon/Lsword/113/Knight's Claymore
+Weapon/Lsword/114/Eightfold Longblade
+Weapon/Lsword/124/Royal Claymore
+Weapon/Lsword/127/Zora Longsword
+Weapon/Lsword/129/Gerudo Claymore
+Weapon/Lsword/136/Cobble Crusher
+Weapon/Lsword/147/Royal Guard's Claymore
+Weapon/Lsword/163/Strong Zonaite Longsword
+Weapon/Lsword/164/Mighty Zonaite Longsword
+Weapon/Lsword/168/Thick Stick
+Weapon/Lsword/174/Giant Boomerang
+Weapon/Shield/001/Wooden Shield
+Weapon/Shield/002/Soldiers Shield
+Weapon/Shield/003/Knight's Shield
+Weapon/Shield/004/Boko Shield
+Weapon/Shield/005/Spiked Boko Shield
+Weapon/Shield/006/Dragonbone Boko Shield
+Weapon/Shield/007/Lizal Shield
+Weapon/Shield/008/Reinforced Lizal Shield
+Weapon/Shield/009/Steel Lizal Shield
+Weapon/Shield/016/Lynel Shield
+Weapon/Shield/017/Mighty Lynel Shield
+Weapon/Shield/018/Savage Lynel Shield
+Weapon/Shield/021/Rusty Shield
+Weapon/Shield/022/Royal Shield
+Weapon/Shield/023/Forest Dweller's Shield
+Weapon/Shield/025/Zora Shield
+Weapon/Shield/026/Gerudo Shield
+Weapon/Shield/031/Hunter's Shield
+Weapon/Shield/032/Fisherman's Shield
+Weapon/Shield/033/Royal Guard's Shield
+Weapon/Shield/034/Emblazoned Shield
+Weapon/Shield/035/Traveler's Shield
+Weapon/Shield/036/Radiant Shield
+Weapon/Shield/040/Pot Lid
+Weapon/Shield/041/Shield of the Mind's Eye
+Weapon/Shield/101/Zonaite Shield
+Weapon/Shield/102/Strong Zonaite Shield
+Weapon/Shield/103/Mighty Zonaite Shield
+Weapon/Shield/107/Old Wooden Shield
+Weapon/Spear/021/Rusty Halberd
+Weapon/Spear/022/Farmer's Pitchfork
+Weapon/Spear/036/Wooden Mop
+Weapon/Spear/038/Fishing Harpoon
+Weapon/Spear/101/Zonaite Spear
+Weapon/Spear/103/Long Stick
+Weapon/Spear/106/Traveler's Spear
+Weapon/Spear/108/Sturdy Long Stick
+Weapon/Spear/109/Gnarled Long Stick
+Weapon/Spear/112/Soldier's Spear
+Weapon/Spear/113/Knight's Halberd
+Weapon/Spear/124/Royal Halberd
+Weapon/Spear/125/Forest Dweller's Spear
+Weapon/Spear/127/Zora Spear
+Weapon/Spear/129/Gerudo Spear
+Weapon/Spear/132/Feathered Spear
+Weapon/Spear/147/Royal Guard's Spear
+Weapon/Spear/163/Strong Zonaite Spear
+Weapon/Spear/164/Mighty Zonaite Spear
+Weapon/Spear/168/Long Stick
+Weapon/Spear/173/Throwing Spear
+Weapon/Sword/021/Rusty Broadsword
+Weapon/Sword/022/Soup Ladle
+Weapon/Sword/043/Torch
+Weapon/Sword/044/Tree Branch
+Weapon/Sword/101/Zonaite Sword
+Weapon/Sword/103/Wooden Stick
+Weapon/Sword/105/Boomerang
+Weapon/Sword/106/Traveler's Sword
+Weapon/Sword/107/Lizal Boomerang
+Weapon/Sword/108/Sturdy Wooden Stick
+Weapon/Sword/109/Gnarled Wooden Stick
+Weapon/Sword/112/Soldier's Broadsword
+Weapon/Sword/113/Knight's Broadsword
+Weapon/Sword/114/Eightfold Blade
+Weapon/Sword/124/Royal Broadsword
+Weapon/Sword/125/Forest Dweller's Sword
+Weapon/Sword/127/Zora Sword
+Weapon/Sword/129/Gerudo Scimitar
+Weapon/Sword/131/Feathered Edge
+Weapon/Sword/147/Royal Guard's Sword
+Weapon/Sword/161/Magic Rod
+Weapon/Sword/163/Strong Zonaite Sword
+Weapon/Sword/164/Mighty Zonaite Sword
+Weapon/Sword/167/Tree Branch
+Weapon/Sword/168/Wooden Stick
