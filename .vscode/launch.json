@@ -8,6 +8,14 @@
       "program": "${workspaceFolder}/generate-named-places.js",
       "skipFiles": ["<node_internals>/**"],
       "cwd": "${workspaceFolder}"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Generate Object Inventory",
+      "program": "${workspaceFolder}/generate-object-inventory.js",
+      "skipFiles": ["<node_internals>/**"],
+      "cwd": "${workspaceFolder}"
     }
   ]
 }
